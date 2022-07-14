@@ -137,4 +137,9 @@ h6 {
     #team {
         flex-direction: column;
     }
+    
+    .team img {
+        flex-wrap: wrap;
+        flex: 100%;
+    }
 }
