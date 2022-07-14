@@ -140,6 +140,6 @@ h6 {
     
     .team img {
         flex-wrap: wrap;
-        flex: 100%;
-    }
+        width: 90%;
+  }
 }
